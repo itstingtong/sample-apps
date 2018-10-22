@@ -1,0 +1,5 @@
+com/ton/config/SwaggerConfiguration.class
+com/ton/domain/Student.class
+com/ton/StudentApplication.class
+com/ton/controller/StudentController.class
+com/ton/repository/StudentRepository.class
