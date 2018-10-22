@@ -1,5 +1,5 @@
-/projects/student-sample-app/src/main/java/com.ton.config/SwaggerConfiguration.java
-/projects/student-sample-app/src/main/java/com.ton.domain/Student.java
-/projects/student-sample-app/src/main/java/com.ton.controller/StudentController.java
-/projects/student-sample-app/src/main/java/com.ton/StudentApplication.java
-/projects/student-sample-app/src/main/java/com.ton.repository/StudentRepository.java
+/projects/sample-apps/student-sample-app/src/main/java/com.ton.repository/StudentRepository.java
+/projects/sample-apps/student-sample-app/src/main/java/com.ton/StudentApplication.java
+/projects/sample-apps/student-sample-app/src/main/java/com.ton.domain/Student.java
+/projects/sample-apps/student-sample-app/src/main/java/com.ton.config/SwaggerConfiguration.java
+/projects/sample-apps/student-sample-app/src/main/java/com.ton.controller/StudentController.java
